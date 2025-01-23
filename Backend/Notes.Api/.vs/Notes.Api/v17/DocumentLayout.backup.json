@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NotesProject\\Backend\\Notes.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63FE5C16-5C58-4CFA-9E50-5A8232685B9D}|Notes.Api\\Notes.Api.csproj|e:\\notesproject\\backend\\notes.api\\notes.api\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FE5C16-5C58-4CFA-9E50-5A8232685B9D}|Notes.Api\\Notes.Api.csproj|solutionrelative:notes.api\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FE5C16-5C58-4CFA-9E50-5A8232685B9D}|Notes.Api\\Notes.Api.csproj|e:\\notesproject\\backend\\notes.api\\notes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FE5C16-5C58-4CFA-9E50-5A8232685B9D}|Notes.Api\\Notes.Api.csproj|solutionrelative:notes.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FE5C16-5C58-4CFA-9E50-5A8232685B9D}|Notes.Api\\Notes.Api.csproj|e:\\notesproject\\backend\\notes.api\\notes.api\\endpionts\\noteendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FE5C16-5C58-4CFA-9E50-5A8232685B9D}|Notes.Api\\Notes.Api.csproj|solutionrelative:notes.api\\endpionts\\noteendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FE5C16-5C58-4CFA-9E50-5A8232685B9D}|Notes.Api\\Notes.Api.csproj|e:\\notesproject\\backend\\notes.api\\notes.api\\services\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63FE5C16-5C58-4CFA-9E50-5A8232685B9D}|Notes.Api\\Notes.Api.csproj|solutionrelative:notes.api\\services\\sqlconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63FE5C16-5C58-4CFA-9E50-5A8232685B9D}|Notes.Api\\Notes.Api.csproj|e:\\notesproject\\backend\\notes.api\\notes.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63FE5C16-5C58-4CFA-9E50-5A8232685B9D}|Notes.Api\\Notes.Api.csproj|solutionrelative:notes.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SqlConnectionFactory.cs",
+              "DocumentMoniker": "E:\\NotesProject\\Backend\\Notes.Api\\Notes.Api\\Services\\SqlConnectionFactory.cs",
+              "RelativeDocumentMoniker": "Notes.Api\\Services\\SqlConnectionFactory.cs",
+              "ToolTip": "E:\\NotesProject\\Backend\\Notes.Api\\Notes.Api\\Services\\SqlConnectionFactory.cs",
+              "RelativeToolTip": "Notes.Api\\Services\\SqlConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:16:13.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteEndpoints.cs",
+              "DocumentMoniker": "E:\\NotesProject\\Backend\\Notes.Api\\Notes.Api\\Endpionts\\NoteEndpoints.cs",
+              "RelativeDocumentMoniker": "Notes.Api\\Endpionts\\NoteEndpoints.cs",
+              "ToolTip": "E:\\NotesProject\\Backend\\Notes.Api\\Notes.Api\\Endpionts\\NoteEndpoints.cs",
+              "RelativeToolTip": "Notes.Api\\Endpionts\\NoteEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:14:11.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\NotesProject\\Backend\\Notes.Api\\Notes.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Notes.Api\\appsettings.Development.json",
+              "ToolTip": "E:\\NotesProject\\Backend\\Notes.Api\\Notes.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Notes.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T22:59:53.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Note.cs",
+              "DocumentMoniker": "E:\\NotesProject\\Backend\\Notes.Api\\Notes.Api\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Notes.Api\\Models\\Note.cs",
+              "ToolTip": "E:\\NotesProject\\Backend\\Notes.Api\\Notes.Api\\Models\\Note.cs",
+              "RelativeToolTip": "Notes.Api\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:52:49.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\NotesProject\\Backend\\Notes.Api\\Notes.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Notes.Api\\Program.cs",
+              "ToolTip": "E:\\NotesProject\\Backend\\Notes.Api\\Notes.Api\\Program.cs",
+              "RelativeToolTip": "Notes.Api\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T22:47:45.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
